@@ -34,6 +34,7 @@ An application that can be used to write, save, and delete notes. This applicati
   ## Video
   
   <a href="https://drive.google.com/file/d/1rUfmRnMYpxkrv77ItX0QaU2bc7qVx7BZ/view">Demo Video</a>
+  <br>
   <a href="https://cjose26.github.io/notepad/">Github page</a>
 
   
